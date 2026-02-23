@@ -1,8 +1,8 @@
-# Group TEAM_NUMBER
+# Group 6
 Group Name: TEAM_NAME
 
-[MVP Link](http://cs196.cs.illinois.edu)
+[MVP Link](https://docs.google.com/document/d/1Uo9bVLyEKAjjrlt4F-BqIV1XJAN3vdrD/edit)
 
-Team Members: STUDENTS_NETIDS
+Team Members: bryanz4, cooperw3, patawee2, spall13, abiju7
 
-Project Manager: PM_NETID
+Project Manager: kakatur2, taniyaa2
